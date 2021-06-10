@@ -1,6 +1,6 @@
 # Renomeador de Notas Fiscais
 
-## Software capaz de renomear notas fiscais com formado de arquivos .pdf.
+## Software capaz de renomear notas fiscais com formato de arquivos .pdf.
 
 ### Funcionamento:
 
