@@ -8,5 +8,5 @@
 2. Em seguida basta mover todos os arquivos que se deseja renomear.
 3. Para finalizar basta clicar no botão "Iniciar" e deixar o algorítimo trabalhar por alguns milisegundos.
 
-* Software Open Source 
-* Fácil implementação de novas funcionalidades, como suporte para outros formatos de arquivos e formatação do renomeação dos arquivos.
+### -> Software Open Source 
+### -> Fácil implementação de novas funcionalidades, como suporte para outros formatos de arquivos e formatação do renomeação dos arquivos.
